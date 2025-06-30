@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+numpy
+# Optional GUI
+streamlit
+# or use:
+# tkinter  # (comes with Python by default)
